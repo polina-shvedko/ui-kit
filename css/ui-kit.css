@@ -1,0 +1,39 @@
+.color.circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    padding-bottom: 0.5rem;
+}
+
+.color.primary {
+    background-color: #1178b4;
+}
+
+.color.secondary {
+    background-color: #232960;
+}
+
+.color.success {
+    background-color: var(--success);
+}
+
+.color.info {
+    background-color: var(--info);
+}
+
+.color.warning {
+    background-color: var(--warning);
+}
+
+.color.danger {
+    background-color: var(--danger);
+}
+
+.color.light {
+    background-color: var(--light);
+}
+
+.color.dark {
+    background-color: var(--dark);
+}
