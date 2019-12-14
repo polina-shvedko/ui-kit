@@ -1,3 +1,16 @@
+body{
+    background-color: #fff;
+}
+
+.card{
+    box-shadow: 0 10px 20px 0 rgba(26, 44, 57, 0.14);
+    border: none;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
 .color.circle {
     border-radius: 50%;
     width: 100px;

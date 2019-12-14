@@ -515,16 +515,16 @@ ul.no-bullets {
     margin-right: -15px
 }
 
-.container {
-    background-color: #fff;
-    margin: 20px auto;
-    max-width: 1000px;
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
-    border: 1px solid #dfdfdf;
-    -webkit-box-shadow: 0 0 3px 2px rgba(106, 106, 106, .3);
-    box-shadow: 0 0 3px 2px rgba(106, 106, 106, .3)
-}
+/*.container {*/
+    /*background-color: #fff;*/
+    /*margin: 20px auto;*/
+    /*max-width: 1000px;*/
+    /*-webkit-border-radius: 10px;*/
+    /*border-radius: 10px;*/
+    /*border: 1px solid #dfdfdf;*/
+    /*-webkit-box-shadow: 0 0 3px 2px rgba(106, 106, 106, .3);*/
+    /*box-shadow: 0 0 3px 2px rgba(106, 106, 106, .3)*/
+/*}*/
 
 .mooadboard img {
     -webkit-border-top-right-radius: 10px;
